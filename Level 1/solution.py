@@ -20,4 +20,4 @@ def answer(n):
 
 
 
-print answer(3)
+print answer(3) # input's tested here
